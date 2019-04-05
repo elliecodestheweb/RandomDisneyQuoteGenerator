@@ -1,0 +1,33 @@
+html, body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+body {
+    flex-direction: column;
+    color: white;
+    background: #006e99;
+    font-size: 22px;
+}
+
+h1 {
+  font-size: 45px;
+  font-family: 'Handlee', cursive;
+  text-shadow: 2px 2px 2px #000;
+  height: 120px;
+}
+
+div {
+  height:120px;
+}
+
+button {
+  width: 150px;
+  height: 45px;
+  border-radius: 10px;
+  font-size: 18px;
+  background-color: #c4c8ce;
+  border-color: #84888e;
+}
